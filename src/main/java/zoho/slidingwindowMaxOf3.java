@@ -22,7 +22,8 @@ public class slidingwindowMaxOf3 {
         for (int i = 0; i < n; i++) {
             arr[i] = s.nextInt();
         }
-int k = s.nextInt();int max = 0;
+        int k = s.nextInt();
+        int max = 0;
         
         for (int i = 0; i < n; i++) {
           
