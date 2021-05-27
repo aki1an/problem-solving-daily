@@ -8,6 +8,7 @@ package Problem_Solving;
 /**
  *
  * @author Akilan
+ Note:  this is in completed ... ..
  */
 import java.util.Scanner;
 public class QN__57___Days_between_dates {
@@ -17,7 +18,7 @@ public class QN__57___Days_between_dates {
         }
         return false;
     }
-    
+    // --- in complete -------
     public static void main(String args[]){
         Scanner s= new Scanner(System.in);
         int d1 = s.nextInt(), m1 = s.nextInt(), y1 = s.nextInt();
