@@ -1,4 +1,4 @@
-package leetcode;
+package medium;
 
 import java.util.Scanner;
 
@@ -44,7 +44,7 @@ public class Product_of_Array_238 {
         int arr[] = new int[n];
         for (int i = 0; i < n; i++)
             arr[i] = s.nextInt();
-        System.out.println(new Sum_of_All_Odd_Length_sub_array.Product_of_Array_238().productExceptSelf(arr));
+        System.out.println(new Product_of_Array_238().productExceptSelf(arr));
     }
 
 }
